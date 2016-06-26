@@ -1,0 +1,29 @@
+{
+
+  "manifest_version": 2,
+  "name": "Summarize",
+  "version": "1.0",
+
+  "description": "Display a summary for the article on the current page",
+  "homepage_url": "https://github.com/petre2dor/summarizeFirefoxExtension",
+  "icons": {
+    "24": "icon-24.png",
+    "32": "icon-32.png",
+    "48": "icon-64.png"
+  },
+  "permissions": [
+    "activeTab",
+    "http://46.101.138.193/"
+  ],
+  "applications": {
+    "gecko": {
+      "id": "summarize@dorkfarm.com",
+      "strict_min_version": "46.0"
+    }
+  },
+  "browser_action": {
+    "default_icon": "icon-32.png",
+    "default_title": "Summarize article",
+    "default_popup": "popup.html"
+  }
+}
