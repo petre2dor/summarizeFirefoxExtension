@@ -2,9 +2,9 @@
 
   "manifest_version": 2,
   "name": "Summarize",
-  "version": "1.0",
+  "version": "1.0.1",
 
-  "description": "Display a summary for the article on the current page",
+  "description": "Display a summary for the article on the current page. This addon uses a 3rd party site (46.101.138.193) to generate the summary, based on the current URL.",
   "homepage_url": "https://github.com/petre2dor/summarizeFirefoxExtension",
   "icons": {
     "24": "icon-24.png",
