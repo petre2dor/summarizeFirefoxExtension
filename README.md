@@ -8,4 +8,4 @@ A firefox addon that summarizes articles
 Install: https://developer.chrome.com/extensions/getstarted#unpacked
 
 
-It uses [my own version](https://github.com/petre2dor/PyTeaser) of [PyTeaser](https://github.com/xiaoxu193/PyTeaser). Many thanks to @xiaoxu193. 
+It uses [my own version](https://github.com/petre2dor/PyTeaser) of [PyTeaser](https://github.com/xiaoxu193/PyTeaser). Many thanks to [@xiaoxu193](https://github.com/xiaoxu193). 
